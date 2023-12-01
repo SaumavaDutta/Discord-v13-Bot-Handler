@@ -1,4 +1,4 @@
-const { getGuild } = require(`${process.cwd()}/api/components/getGuilds.js`);
+const { getGuild } = require(`${process.cwd()}/api/components/GetGuilds.js`);
 
 async function getChannel(client, channelRawData, force = false) {
   const channelObj = resolveChannel(channelRawData, client);
