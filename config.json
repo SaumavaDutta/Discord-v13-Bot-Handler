@@ -1,6 +1,6 @@
 {
-    "token": "MTE1MjYxMDI5ODU3NDkzODIwMw.GQMCPO.8UkaXPzXnHnRr2YMbjxZI0N_gR2SAQlYihy4ug",
-    "prefix": "?",
+    "token": "YOUR_BOT_TOKEN",
+    "prefix": "YOUR_BOT_PREFIX",
     "status": {
         "text": "ashton.gg",
         "type": "LISTENING",
