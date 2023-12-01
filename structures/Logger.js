@@ -11,6 +11,6 @@ module.exports = Logger;
 
 /* Made
 *  By
-*  Discord Id - ashton.gg
+*  Discord Id - Saumava
 *  Credits must be there
 */
