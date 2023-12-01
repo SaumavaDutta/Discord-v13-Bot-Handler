@@ -31,7 +31,7 @@ Step 4: Now edit the `config.json` file and put your bot token to start the bot 
 node .
 ```
 
-If you need any additional help, dm [ashton.gg](https://discord.com/users/1069555290875367496)
+If you need any additional help, dm [Saumava](https://discord.com/users/1069555290875367496)
 
 <br>
 
@@ -48,7 +48,7 @@ If you need any additional help, dm [ashton.gg](https://discord.com/users/106955
 
 <h1 align="center"> 🤝 Contributing 🤝 </h1>
 
-- This project is genuinely developed by [ashton.gg](https://discord.com/users/1069555290875367496)
+- This project is genuinely developed by [Saumava](https://discord.com/users/1069555290875367496)
 - If you considering to use this template in your bot please do give credit to **ashton.gg** (E.g - Bot is modified by "Modifier Name" and developed by **ashton.gg**)
 - Would be if you use this template.
 - Thank you.
