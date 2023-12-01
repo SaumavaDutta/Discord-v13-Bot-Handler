@@ -10,6 +10,6 @@ module.exports = Constants;
 
 /* Made
 *  By
-*  Discord Id - ashton.gg
+*  Discord Id - Saumava
 *  Credits must be there
 */
