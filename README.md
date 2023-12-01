@@ -7,18 +7,6 @@
 
 <br>
 
-<p align="center">
-  <a href="#-requirements">Requirements</a>
-  •
-  <a href="#-getting-started">Getting Started</a>
-  •
-  <a href="#-features">Features</a>
-  •
-  <a href="#-contributing">Contributing</a>
-</p>
-
-<br>
-
 <h1 align="center"> 📲 Requirements 📲 </h1>
 
 - [Node.js](https://nodejs.org/en/) version must be >= 16.11.0
