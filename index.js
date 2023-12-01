@@ -43,6 +43,6 @@ client.access(config.token || process.env.TOKEN);
 
 /* Made
 *  By
-*  Discord Id - ashton.gg
+*  Discord Id - Saumava
 *  Credits must be there
 */
