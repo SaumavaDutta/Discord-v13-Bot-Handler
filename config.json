@@ -1,0 +1,18 @@
+{
+    "token": "MTE1MjYxMDI5ODU3NDkzODIwMw.GQMCPO.8UkaXPzXnHnRr2YMbjxZI0N_gR2SAQlYihy4ug",
+    "prefix": "?",
+    "status": {
+        "text": "ashton.gg",
+        "type": "LISTENING",
+        "status": "online"
+    },
+    "REST": {
+        "URI": "http://localhost:8080/api"
+    },
+    "developers": ["1069555290875367496"],
+    "embeds": {
+        "baseText": "",
+        "color": "#0DDFFF",
+        "footer": "© Developed By ashton.gg"
+    }
+}
