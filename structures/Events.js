@@ -27,6 +27,6 @@ module.exports = Events;
 
 /* Made
 *  By
-*  Discord Id - ashton.gg
+*  Discord Id - Saumava
 *  Credits must be there
 */
