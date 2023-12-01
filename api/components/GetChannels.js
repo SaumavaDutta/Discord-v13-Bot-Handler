@@ -52,6 +52,6 @@ module.exports.getChannels = getChannels;
 
 /* Made
 *  By
-*  Discord Id - ashton.gg (Basic Implementation of Discord.jsV13 Library)
+*  Discord Id - Saumava (Basic Implementation of Discord.jsV13 Library)
 *  Credits must be there
 */
