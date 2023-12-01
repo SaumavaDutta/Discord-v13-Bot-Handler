@@ -28,11 +28,11 @@
 - Open the Command Prompt or the Terminal and run the following Steps:-
 Step 1: Clone or download the template, to clone use the following command:
 ```
-git clone https://github.com/saiteja-madha/discord-js-bot.git
+git clone https://github.com/SaumavaDutta/Discord-v13-Bot-Handler.git
 ```
 Step 2: Enter the directory:
 ```
-cd discord-js-bot
+cd Discord-v13-Bot-Handler
 ```
 Step 3: Install the `node_modules`:
 ```
