@@ -16,23 +16,23 @@
 - Open the Command Prompt and follow the steps below:
 <h2>Steps:-</h2>
 <br>
-Step 1: Clone or download the template, to clone use the following command:
+**Step 1:** Clone or download the template, to clone use the following command: <br>
 ```
 git clone https://github.com/SaumavaDutta/Discord-v13-Bot-Handler.git
 ```
-Step 2: Enter the directory:
+**Step 2:** Enter the directory:  <br>
 ```
 cd Discord-v13-Bot-Handler
 ```
-Step 3: Install the `node_modules`:
+**Step 3:** Install the `node_modules`:  <br>
 ```
 npm install
 ```
-Step 4: Now edit the `config.json` file and put your bot token to start the bot using the following command below:
+**Step 4:** Now edit the `config.json` file and put your bot token to start the bot using the following command below:  <br>
 ```
 node .
 ```
-
+ <br>
 If you need any additional help, dm [Saumava](https://discord.com/users/1069555290875367496)
 
 <br>
