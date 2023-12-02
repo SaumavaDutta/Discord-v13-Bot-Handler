@@ -4,12 +4,9 @@
 </h1>
 
 <p align="center">An advanced discord.js v13 implemented bot handler with an api request handler to prevent from getting ratelimited.</p>
+<br>
 
-<p align = "center">
-  
-- [Requirements](https://github.com/SaumavaDutta/Discord-v13-Bot-Handler/tree/main#--requirements)
-  
-</p>
+ - [Requirements](https://github.com/SaumavaDutta/Discord-v13-Bot-Handler/tree/main#--requirements) - [Getting Started](https://github.com/SaumavaDutta/Discord-v13-Bot-Handler/tree/main#-%EF%B8%8F-getting-started-%EF%B8%8F) - [Features](https://github.com/SaumavaDutta/Discord-v13-Bot-Handler/tree/main#--features) - [Contributing](https://github.com/SaumavaDutta/Discord-v13-Bot-Handler/tree/main#--contributing)
 <br>
 
 <h1 align="center"> 📲 Requirements 📲 </h1>
