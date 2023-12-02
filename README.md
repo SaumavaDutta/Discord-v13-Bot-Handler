@@ -7,13 +7,13 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/SaumavaDutta/Discord-v13-Bot-Handler/tree/main#--requirements--">Requirements</a>
+  <a href="#--requirements--">Requirements</a>
   •
-  <a href="https://github.com/SaumavaDutta/Discord-v13-Bot-Handler/tree/main#-%EF%B8%8F-getting-started-%EF%B8%8F-">Getting Started</a>
+  <a href="#-%EF%B8%8F-getting-started-%EF%B8%8F-">Getting Started</a>
   •
-  <a href="https://github.com/SaumavaDutta/Discord-v13-Bot-Handler/tree/main#--features--">Features</a>
+  <a href="#--features--">Features</a>
   •
-  <a href="https://github.com/SaumavaDutta/Discord-v13-Bot-Handler/tree/main#--contributing--">Contributing</a>
+  <a href="#--contributing--">Contributing</a>
 </p>
 <br>
 
