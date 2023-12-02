@@ -4,7 +4,12 @@
 </h1>
 
 <p align="center">An advanced discord.js v13 implemented bot handler with an api request handler to prevent from getting ratelimited.</p>
-<p align = "center"> - [Requirements](https://github.com/SaumavaDutta/Discord-v13-Bot-Handler/tree/main#--requirements--)</p>
+
+<p align = "center">
+  
+- [Requirements](https://github.com/SaumavaDutta/Discord-v13-Bot-Handler/tree/main#--requirements)
+  
+</p>
 <br>
 
 <h1 align="center"> 📲 Requirements 📲 </h1>
