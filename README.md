@@ -14,8 +14,12 @@
 <h1 align="center"> ✈️ Getting Started ✈️ </h1>
 
 - Open the Command Prompt and follow the steps below:
-<h2 align="left"> Steps:- </h2>
 <br>
+<h2>
+Steps
+</h2>
+<br>
+
 **Step 1:** Clone or download the template, to clone use the following command: <br>
 ```git clone https://github.com/SaumavaDutta/Discord-v13-Bot-Handler.git```
 **Step 2:** Enter the directory:  <br>
