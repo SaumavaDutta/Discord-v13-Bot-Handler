@@ -9,7 +9,7 @@ class messageUpdate {
             if (message.author?.bot || !message.guild || !message.channel || !message.guild.available || message.webhookId) return;
             
             if(oM?.content.trim().toLowerCase() == message.content.trim().toLowerCase()) return null;
-            //decalring prefix in array to store o prefix in it later.
+            //declaring prefix in array to store no prefix in it later.
             let prefix = [this.client.config.prefix];
 
             if (this.client.config.developers.includes(message.author.id)) prefix.push("");  //noprefix declaration
