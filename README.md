@@ -21,7 +21,9 @@ Steps
 <br>
 
 **Step 1:** Clone or download the template, to clone use the following command: <br>
-```git clone https://github.com/SaumavaDutta/Discord-v13-Bot-Handler.git```
+```
+git clone https://github.com/SaumavaDutta/Discord-v13-Bot-Handler.git
+```
 **Step 2:** Enter the directory:  <br>
 ```
 cd Discord-v13-Bot-Handler
