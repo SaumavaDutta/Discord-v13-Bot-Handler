@@ -27,7 +27,7 @@ git clone https://github.com/SaumavaDutta/Discord-v13-Bot-Handler.git
 ```
 cd Discord-v13-Bot-Handler
 ```
-**Step** 3:** Install the `node_modules`:  <br>
+**Step 3:** Install the `node_modules`:  <br>
 ```
 npm install
 ```
