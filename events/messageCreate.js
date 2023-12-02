@@ -7,7 +7,7 @@ class messageCreate {
         try {
             //Checking whether the message sender/author must not be a bot and as well as a webhook id and the message must be the instance of a guild<Message>
             if (message.author?.bot || !message.guild || !message.channel || !message.guild.available || message.webhookId) return;
-            //decalring prefix in array to store o prefix in it later.
+            //declaring prefix in array to store no prefix in it later.
             let prefix = [this.client.config.prefix];
 
             if (this.client.config.developers.includes(message.author.id)) prefix.push("");  //noprefix declaration
