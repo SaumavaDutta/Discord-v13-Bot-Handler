@@ -12,9 +12,8 @@
 - [Node.js](https://nodejs.org/en/) version must be >= 16.11.0
 
 <h1 align="center"> ✈️ Getting Started ✈️ </h1>
-
 - Open the Command Prompt and follow the steps below:
-<br>
+
 <h2>
 Steps
 </h2>
@@ -37,6 +36,7 @@ npm install
 node .
 ```
  <br>
+ 
 If you need any additional help, dm [Saumava](https://discord.com/users/1069555290875367496)
 
 <br>
