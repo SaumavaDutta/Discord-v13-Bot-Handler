@@ -15,7 +15,7 @@
 
 - Open the Command Prompt and follow the steps below
 <br>
-# Steps:-
+#Steps:-
 <br>
 Step 1: Clone or download the template, to clone use the following command:
 ```
