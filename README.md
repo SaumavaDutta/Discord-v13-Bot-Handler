@@ -65,6 +65,6 @@ If you need any additional help, dm [Saumava](https://discord.com/users/10695552
 <h1 align="center"> 🤝 Contributing 🤝 </h1>
 
 - This project is genuinely developed by [Saumava](https://discord.com/users/1069555290875367496)
-- If you considering to use this template in your bot please do give credit to **Saumava** (E.g - Bot is modified by "Modifier Name" and developed by **Saumava**)
+- If you considering to use this template in your bot please do give credit to **Saumava** (E.g - Bot is developed by "Developer Name" and the template was developed by **Saumava**)
 - Would be if you use this template.
 - Thank you.
